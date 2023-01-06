@@ -54,4 +54,3 @@ end
 gem 'tzinfo-data'
 
 gem 'devise'
-gem 'pry-rails'
